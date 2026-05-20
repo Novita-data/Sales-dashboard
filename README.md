@@ -1,9 +1,11 @@
+
 # Sales Performance Dashboard – Power BI
 
 ## Project Overview
 This project presents an interactive Sales Performance Dashboard created using Power BI. The dashboard analyzes business sales data across regions, product categories, customer segments, and time periods to identify sales trends and business performance patterns.
 
 The objective of this project is to transform raw sales data into meaningful business insights through data visualization and KPI analysis.
+This project is created as part of my learning in Power BI journey and business analytics.
 
 ---
 
@@ -48,6 +50,8 @@ This dashboard helps answer important business questions such as:
 - How do sales change over time?
 - Which customer segment contributes most to revenue?
 - Which sub-categories underperform in sales?
+- How many orders from each region and the amount of sales genareated?
+- HOW many customers are in each region?
 
 ---
 
@@ -76,6 +80,7 @@ Region slicers allow dynamic dashboard interaction.
 - Technology category contributes significantly to overall sales performance.
 - Consumer segment shows the highest sales contribution among customer groups.
 - Regional analysis indicates stronger performance in East and West regions.
+- South markets need  immediate performance improvement.
 - Certain sub-categories contribute comparatively lower sales, indicating opportunities for improvement.
 
 ---
@@ -97,4 +102,4 @@ Through this project, I practiced:
 ---
 
 ## Author
-[Your Name]
+[NOVITA NIXON]
