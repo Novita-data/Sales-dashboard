@@ -97,7 +97,11 @@ Through this project, I practiced:
 ---
 
 ## Dashboard Preview
-(Add dashboard screenshot here)
+Dashboard images
+<img width="4160" height="3120" alt="time trend analysis" src="https://github.com/user-attachments/assets/0996c212-9f7a-4495-be6b-99791327a0bb" />
+<img width="4160" height="3120" alt="consumer purchases and sales" src="https://github.com/user-attachments/assets/43da6da6-6245-49fb-b00c-909073612987" />
+<img width="4160" height="3120" alt="Technology related sales in West" src="https://github.com/user-attachments/assets/e13695f1-7d12-410d-8709-1d73cb0f2d65" />
+<img width="4160" height="3120" alt="technology ralated sales in South" src="https://github.com/user-attachments/assets/f377442b-b4cc-44dd-a282-92d37ae52302" />
 
 ---
 
